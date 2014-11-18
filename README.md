@@ -1,4 +1,4 @@
-# PowerdnsOpenvpnBackend
+# PowerDNS OpenVPN Backend [![Gem Version](https://badge.fury.io/rb/powerdns_openvpn_backend.png)](http://badge.fury.io/rb/powerdns_openvpn_backend) [![Build Status](https://travis-ci.org/aarontc/powerdns_openvpn_backend.png?branch=master)](https://travis-ci.org/aarontc/powerdns_openvpn_backend) [![Code Climate GPA](https://codeclimate.com/github/aarontc/powerdns_openvpn_backend.png)](https://codeclimate.com/github/aarontc/powerdns_openvpn_backend)
 
 TODO: Write a gem description
 

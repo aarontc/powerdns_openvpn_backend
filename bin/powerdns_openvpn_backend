@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+begin
+	require 'powerdns_openvpn_backend'
+rescue LoadError
+	require 'rubygems'
+	require 'powerdns_openvpn_backend'
+end
+
+PowerdnsOpenvpnBackend::PowerDNSBackend.new.run ARGV
